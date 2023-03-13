@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "target": "ES2022",
+    "sourceMap": true,
+    "strict": true,
+    "types": ["jest", "node"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "noEmit": true,
+    "skipLibCheck": true
+  }
+}
